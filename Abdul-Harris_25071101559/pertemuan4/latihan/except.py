@@ -8,7 +8,7 @@ class NilaiMahasiswa:
             rata_rata = (nilai1 + nilai2 + nilai3)/3
             print("rata-rata nilainya: ",rata_rata)
             
-        except valueError:
+        except ValueError:
             print("input harus berupa angka")
         
         finally:
