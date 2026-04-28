@@ -1,4 +1,4 @@
-# Contoh boolean
+# ini Contoh boolean
 
 a = 10
 b = 5

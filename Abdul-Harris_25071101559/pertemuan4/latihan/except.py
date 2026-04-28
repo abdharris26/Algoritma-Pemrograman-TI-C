@@ -1,4 +1,4 @@
-#studi kasus
+# studi kasus 
 class NilaiMahasiswa:
     def hitung_rata_rata(self):
         try:

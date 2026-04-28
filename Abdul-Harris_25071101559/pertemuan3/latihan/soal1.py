@@ -35,4 +35,6 @@ print(a2.get_tahun_rilis())
 a3 = Mobil("besar","bmw",2020)
 print(a3.merk)
 
+#contoh class
+
     

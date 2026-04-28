@@ -6,3 +6,5 @@ def rata_rata(nilai):
 data_nilai = [80,75, 90, 60, 85]
 hasil = rata_rata(data_nilai)
 print(hasil)
+
+#belajar
